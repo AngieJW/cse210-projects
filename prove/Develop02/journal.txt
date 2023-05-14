@@ -1,0 +1,2 @@
+&Did I help someone today? &Yes, an old lady with her groceries
+&Who did I connect with today and how? &my friends
